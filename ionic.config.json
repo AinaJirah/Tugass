@@ -1,0 +1,7 @@
+{
+  "name": "aina-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
